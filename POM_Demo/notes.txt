@@ -2,4 +2,4 @@
 python CRM_Unit_Tests.py username:Admin password:admin123
 
 # Command to run pytest (with 'regression' tag and command line arguments)
- Test_CRM_Pytest.py -m regression --url https://www.gmail.com --browser chrome
+ pytest Test_CRM_Pytest.py -m regression --url https://www.gmail.com --browser chrome
