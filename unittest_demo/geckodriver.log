@@ -1,0 +1,233 @@
+1547262164845	geckodriver	INFO	geckodriver 0.19.1
+1547262164921	geckodriver	INFO	Listening on 127.0.0.1:54555
+1547262165864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.kZQWFYNWYPxC"
+1547262166527	Marionette	INFO	Enabled via --marionette
+2019-01-12 08:32:47.939 plugin-container[32158:2537496] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad0f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547262168138	Marionette	INFO	Listening on port 54566
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547262168176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547262168208	Marionette	DEBUG	loaded listener.js
+1547262228535	Marionette	INFO	New connections will no longer be accepted
+1547262414810	geckodriver	INFO	geckodriver 0.19.1
+1547262414873	geckodriver	INFO	Listening on 127.0.0.1:54822
+1547262415940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.mYXuDpkBLHFT"
+1547262416384	Marionette	INFO	Enabled via --marionette
+2019-01-12 08:36:57.469 plugin-container[32312:2541200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547262417621	Marionette	INFO	Listening on port 54833
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547262417713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547262417743	Marionette	DEBUG	loaded listener.js
+1547262478099	Marionette	INFO	New connections will no longer be accepted
+1547262550713	geckodriver	INFO	geckodriver 0.19.1
+1547262550776	geckodriver	INFO	Listening on 127.0.0.1:54978
+1547262551838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.SQYYYS8a31WR"
+1547262552279	Marionette	INFO	Enabled via --marionette
+2019-01-12 08:39:13.359 plugin-container[32389:2542799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547262553506	Marionette	INFO	Listening on port 54989
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547262553609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547262553643	Marionette	DEBUG	loaded listener.js
+1547262614007	Marionette	INFO	New connections will no longer be accepted
+1547262636501	geckodriver	INFO	geckodriver 0.19.1
+1547262636564	geckodriver	INFO	Listening on 127.0.0.1:55118
+1547262637625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.2Zq26pEJ8yRB"
+1547262638077	Marionette	INFO	Enabled via --marionette
+2019-01-12 08:40:39.150 plugin-container[32421:2543852] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547262639293	Marionette	INFO	Listening on port 55129
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547262639390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547262639421	Marionette	DEBUG	loaded listener.js
+1547262699778	Marionette	INFO	New connections will no longer be accepted
+1547263151644	geckodriver	INFO	geckodriver 0.19.1
+1547263151708	geckodriver	INFO	Listening on 127.0.0.1:55578
+1547263152773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.3pn6lRpNFQXW"
+1547263153214	Marionette	INFO	Enabled via --marionette
+2019-01-12 08:49:14.306 plugin-container[32565:2548797] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547263154455	Marionette	INFO	Listening on port 55591
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547263154548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547263154578	Marionette	DEBUG	loaded listener.js
+1547263214943	Marionette	INFO	New connections will no longer be accepted
+1547263247497	geckodriver	INFO	geckodriver 0.19.1
+1547263247561	geckodriver	INFO	Listening on 127.0.0.1:55717
+1547263248625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.h66FglwQuOJY"
+1547263249076	Marionette	INFO	Enabled via --marionette
+2019-01-12 08:50:50.154 plugin-container[32684:2550490] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547263250299	Marionette	INFO	Listening on port 55730
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547263250385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547263250417	Marionette	DEBUG	loaded listener.js
+1547263310786	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547263420782	geckodriver	INFO	geckodriver 0.19.1
+1547263420845	geckodriver	INFO	Listening on 127.0.0.1:55918
+1547263421912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.vUiNydI0xlng"
+1547263422358	Marionette	INFO	Enabled via --marionette
+2019-01-12 08:53:43.476 plugin-container[32729:2552527] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547263423624	Marionette	INFO	Listening on port 55929
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547263423683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547263423713	Marionette	DEBUG	loaded listener.js
+1547263459560	geckodriver	INFO	geckodriver 0.19.1
+1547263459623	geckodriver	INFO	Listening on 127.0.0.1:56021
+1547263460687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.fZHXP8dhb2Iz"
+1547263461134	Marionette	INFO	Enabled via --marionette
+2019-01-12 08:54:22.240 plugin-container[32747:2553099] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547263462379	Marionette	INFO	Listening on port 56032
+1547263462512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547263462543	Marionette	DEBUG	loaded listener.js
+1547263522894	Marionette	INFO	New connections will no longer be accepted
+1547263821151	geckodriver	INFO	geckodriver 0.19.1
+1547263821213	geckodriver	INFO	Listening on 127.0.0.1:56348
+1547263864100	geckodriver	INFO	geckodriver 0.19.1
+1547263864164	geckodriver	INFO	Listening on 127.0.0.1:56392
+1547263883102	geckodriver	INFO	geckodriver 0.19.1
+1547263883165	geckodriver	INFO	Listening on 127.0.0.1:56417
+1547263884216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.KzmTRKQlOepU"
+1547263884735	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:01:25.813 plugin-container[32875:2557114] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547263885956	Marionette	INFO	Listening on port 56430
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547263885982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547263886012	Marionette	DEBUG	loaded listener.js
+1547263939868	geckodriver	INFO	geckodriver 0.19.1
+1547263939933	geckodriver	INFO	Listening on 127.0.0.1:56521
+1547263940988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.uYZEpCDvWI5O"
+1547263941509	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:02:22.591 plugin-container[32907:2557964] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547263942733	Marionette	INFO	Listening on port 56535
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547263942755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547263942787	Marionette	DEBUG	loaded listener.js
+1547263990701	geckodriver	INFO	geckodriver 0.19.1
+1547263990764	geckodriver	INFO	Listening on 127.0.0.1:56624
+1547263991814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.2klfnQ1zRSTz"
+1547263992333	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:03:13.432 plugin-container[32925:2558616] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547263993575	Marionette	INFO	Listening on port 56637
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547263993603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547263993634	Marionette	DEBUG	loaded listener.js
+1547264053984	Marionette	INFO	New connections will no longer be accepted
+1547265531610	geckodriver	INFO	geckodriver 0.19.1
+1547265531673	geckodriver	INFO	Listening on 127.0.0.1:57905
+1547265532711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.ipAy3ZnyziA9"
+1547265533245	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:28:54.414 plugin-container[33623:2574907] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547265534589	Marionette	INFO	Listening on port 57918
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547265534695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547265534727	Marionette	DEBUG	loaded listener.js
+1547265595070	Marionette	INFO	New connections will no longer be accepted
+1547265696241	geckodriver	INFO	geckodriver 0.19.1
+1547265696306	geckodriver	INFO	Listening on 127.0.0.1:58105
+1547265697345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.kFPzkAZ4u3TU"
+1547265697876	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:31:38.984 plugin-container[33797:2577011] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547265699143	Marionette	INFO	Listening on port 58116
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547265699219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547265699250	Marionette	DEBUG	loaded listener.js
+1547265747240	geckodriver	INFO	geckodriver 0.19.1
+1547265747304	geckodriver	INFO	Listening on 127.0.0.1:58213
+1547265748370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.wKnQmUHYkaiH"
+1547265748815	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:32:29.930 plugin-container[33817:2577716] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1543b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547265750185	Marionette	INFO	Listening on port 58224
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547265750245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547265750276	Marionette	DEBUG	loaded listener.js
+1547265771948	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1547265771949	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1547265856813	geckodriver	INFO	geckodriver 0.19.1
+1547265856875	geckodriver	INFO	Listening on 127.0.0.1:58375
+1547265857959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.3ZFZq6C7VhXK"
+Error: headless mode is not currently supported on this platform.
+1547265882337	geckodriver	INFO	geckodriver 0.19.1
+1547265882400	geckodriver	INFO	Listening on 127.0.0.1:58406
+1547265883484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.tYzdnQ40T6bD"
+Error: headless mode is not currently supported on this platform.
+1547265926958	geckodriver	INFO	geckodriver 0.19.1
+1547265927021	geckodriver	INFO	Listening on 127.0.0.1:58448
+1547265928104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.fmnftBEkIbmD"
+Error: headless mode is not currently supported on this platform.
+1547265941059	geckodriver	INFO	geckodriver 0.19.1
+1547265941123	geckodriver	INFO	Listening on 127.0.0.1:58471
+1547265942185	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.f84Kx4qm7soJ"
+Error: headless mode is not currently supported on this platform.
+1547266003603	geckodriver	INFO	geckodriver 0.19.1
+1547266003669	geckodriver	INFO	Listening on 127.0.0.1:58525
+1547266004728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.JtnkQnxsROPB"
+Error: headless mode is not currently supported on this platform.
+1547266024234	geckodriver	INFO	geckodriver 0.19.1
+1547266024297	geckodriver	INFO	Listening on 127.0.0.1:58553
+1547266025356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.MilgA5krK0Wl"
+Error: headless mode is not currently supported on this platform.
+1547266074690	geckodriver	INFO	geckodriver 0.19.1
+1547266074755	geckodriver	INFO	Listening on 127.0.0.1:58598
+1547266075792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.ZRgzrnxxRAjd"
+1547266076318	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:37:57.419 plugin-container[33945:2581042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547266077554	Marionette	INFO	Listening on port 58611
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547266077660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547266077692	Marionette	DEBUG	loaded listener.js
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547266108793	geckodriver	INFO	geckodriver 0.19.1
+1547266108856	geckodriver	INFO	Listening on 127.0.0.1:58692
+1547266109915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.WIRk2UWY3Rdn"
+Error: headless mode is not currently supported on this platform.
+1547266122701	geckodriver	INFO	geckodriver 0.19.1
+1547266122764	geckodriver	INFO	Listening on 127.0.0.1:58715
+1547266123828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.JoAkjf5tiRAj"
+Error: headless mode is not currently supported on this platform.
+1547266174791	geckodriver	INFO	geckodriver 0.19.1
+1547266174854	geckodriver	INFO	Listening on 127.0.0.1:58797
+1547266175926	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.vtv2hFnwoF5m"
+Error: headless mode is not currently supported on this platform.
+1547266193165	geckodriver	INFO	geckodriver 0.19.1
+1547266193230	geckodriver	INFO	Listening on 127.0.0.1:58825
+1547266194260	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.UBTUSPJPeoDl"
+1547266194784	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:39:55.860 plugin-container[34017:2583000] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547266196008	Marionette	INFO	Listening on port 58837
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547266196039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547266196070	Marionette	DEBUG	loaded listener.js
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1547266208061	geckodriver	INFO	geckodriver 0.19.1
+1547266208125	geckodriver	INFO	Listening on 127.0.0.1:58902
+1547266209182	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.9ZPu2ySxigaD"
+Error: headless mode is not currently supported on this platform.
+1547266279956	geckodriver	INFO	geckodriver 0.19.1
+1547266280025	geckodriver	INFO	Listening on 127.0.0.1:58971
+1547266281082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.qIFMJj24GeLl"
+Error: headless mode is not currently supported on this platform.
+1547266341227	geckodriver	INFO	geckodriver 0.19.1
+1547266341292	geckodriver	INFO	Listening on 127.0.0.1:59019
+1547266342328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qx/h9vk50gj5cn5xq63vpzlkmfrzp17f8/T/rust_mozprofile.AsFVWpfyo7IE"
+1547266342849	Marionette	INFO	Enabled via --marionette
+2019-01-12 09:42:23.933 plugin-container[34070:2584873] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547266344078	Marionette	INFO	Listening on port 59032
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1547266344095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547266344126	Marionette	DEBUG	loaded listener.js
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
